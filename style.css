@@ -1,3 +1,5 @@
 h1 { color: red; }
-p#intro { color: blue; }
-p.content { color: green; }
+h2 { font-family: 'Inter', sans-serif; }
+p { font-family: 'DM Sans', sans-serif; }
+#intro { color: blue; }
+.content { color: green; }
