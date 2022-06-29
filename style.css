@@ -3,3 +3,8 @@ h2 { font-family: 'Inter', sans-serif; }
 p { font-family: 'DM Sans', sans-serif; }
 #intro { color: blue; }
 .content { color: green; }
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
