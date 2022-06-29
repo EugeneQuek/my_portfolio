@@ -1,6 +1,5 @@
-<!--body { background-color: #F5F5DC; } -->
 body { background-image: url("53-Silver-Fox.jpg"); background-repeat: no-repeat;
-background-attachment: fixed }
+background-attachment: fixed; background-size: contain; }
 
 h1 { color: red; }
 h2 { font-family: 'Inter', sans-serif; }
